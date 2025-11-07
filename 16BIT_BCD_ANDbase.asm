@@ -8,7 +8,8 @@
 ;  ⚠️ NOTE:
 ;  This implementation is no longer maintained.
 ;  A newer and improved version of the BCD_ADD algorithm is available here:
-;     → https://github.com/Pooria-Lari/16bit-BCD-Addition/16BIT_BCD_ANDbaseVER2.asm
+;     → https://github.com/Pooria-Lari/16bit-BCD-Addition
+;     → See the updated version in: /16bit-BCD-Addition/16BIT_BCD_ANDbaseVER2.asm
 ;
 ;  The updated version includes:
 ;     - Structured pseudocode and documentation
