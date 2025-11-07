@@ -1,3 +1,25 @@
+; ============================================================
+;  16bit-BCD-Addition (8086 Assembly) - Deprecated Version
+;  ------------------------------------------------------------
+;  Status   : Deprecated as of 2025-11-07
+;  Author   : Pooria Lari
+;  Purpose  : This version is kept for reference and documentation only.
+;
+;  ⚠️ NOTE:
+;  This implementation is no longer maintained.
+;  A newer and improved version of the BCD_ADD algorithm is available here:
+;     → https://github.com/Pooria-Lari/16bit-BCD-Addition/16BIT_BCD_ANDbase.asm
+;
+;  The updated version includes:
+;     - Structured pseudocode and documentation
+;     - Improved flag handling (AF/CF)
+;     - Clearer algorithmic flow (4-stage nibble processing)
+;
+;  You can still build or study this version for educational purposes,
+;  but for any new development or testing, please use the updated version.
+; ============================================================
+
+
         .MODEL SMALL
         .STACK 64
         .DATA
