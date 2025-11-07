@@ -18,7 +18,7 @@ It has been preserved for **educational and archival purposes**, and a newer ver
 ## Latest Version
 
 >  **New version available here:**  
-> [👉 View Updated BCD_ADD Algorithm (v2)](https://github.com/Pooria-Lari/16bit-BCD-Addition/blob/7c77863100801bdc9403805a1233889c68a83249/16BIT_BCD_ANDbaseVER2.asm)
+> [👉 View Updated BCD Addition Algorithm (v2)](https://github.com/Pooria-Lari/16bit-BCD-Addition/blob/7c77863100801bdc9403805a1233889c68a83249/16BIT_BCD_ANDbaseVER2.asm)
 
 **What’s new in the latest version:**
 - Cleaner structure and improved readability  
